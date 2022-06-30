@@ -1,5 +1,5 @@
 # Ace-of-the-Grid
-<strong>\[Heavy in development, the code in this repository is that of the title menu and colour selection menu, along with the basic skeleton for the board\]</strong><br>
+<strong>\[The code in this repository is that of the title menu and colour selection menu, along with the basic skeleton for the board\]</strong><br>
 Nascent idea for a custom board game, designed in JAVA.<br>
 Built off of chain reaction, this custom version of chain reaction adds in new elements called "Aces".<br>
 In addition to the normal rules of chain reaction, Aces add a new sort of interaction to the board- there are 4 kinds of aces, each of them adds a<br>
