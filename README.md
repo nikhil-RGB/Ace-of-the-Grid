@@ -33,4 +33,11 @@ The specefic implementations are still being worked on, and this project is heav
   Basic board structure/skeleton(without special effects, beautifying, or styling for components):
   <br>
   <img width="960" alt="board-skeleton" src="https://user-images.githubusercontent.com/68727041/163703768-93957094-dc68-4d00-b912-ed531fbdf7ad.png">
+  
+  ## How to test this project:
+  
+  Currently, this project is heavy in development, but the basic skeleton of the board and the menu selection GUI can be tested.
+  - Download all the source code, and ensure your system can run .java files with a main(String[] args) method.
+  - To Test The Main Game Board Skeleton, run the main method of the AceBoard.java class in the src/main package.
+  - To Test try out the selection menu, run the main method of the AceOfTheGrid.java class in the src/main package.      
 
