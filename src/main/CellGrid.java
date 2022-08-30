@@ -1,10 +1,16 @@
 package main;
-
-public final class CellGrid {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+//A grid of cells, used for storing all cell objects in the game currently.
+//Development of code on this branch has been suspended.
+import java.awt.*;
+import java.util.*;
+import javax.swing.*;
+public final class CellGrid 
+{
+   public Cell[][] grid;//grid of cells required.
+   public CellGrid(Cell[][] grid)
+   {
+	   this.grid=grid;
+   }
+   
 
 }

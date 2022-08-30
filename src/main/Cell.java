@@ -1,5 +1,8 @@
+//This code is part of the development branch.
+//This 
 package main;
 import java.awt.*;
+import javax.swing.*;
 public final class Cell 
 {
 	private String type="";//type of Ace
@@ -21,7 +24,20 @@ public final class Cell
 	{
 		return this.crit_mass;
 	}
-	
+	public int calculateCritMass()
+	{
+		return 0;
+	}
+	public Point determinePosition()
+	{
+	int x=this.point.x;
+	int y=this.point.y;
+	int xmax=this.parent.grid.length;
+	int ymax=this.parent.grid[0].length;
+	if(x==this.parent.grid.length)
+	{}
+	return null;
+	}
 	
 
 }
